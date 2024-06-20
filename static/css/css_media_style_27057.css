@@ -1,0 +1,201 @@
+/* CSS Document */
+
+@media screen and (min-width:300px) and (max-width:770px) {
+	.container .leftMenu{ float: none; width: inherit;}
+	.Lmenu li{ display: inline-block; width: 49%;}
+	.rightBox{ width: inherit; float: inherit; margin-top: 2rem;}
+	.newsList li{ padding: 10px 0 20px 0; overflow: hidden;}
+	.LawGuideList li .LGopera a{ padding-bottom: 1rem;}
+	.container{ padding: 1rem;}
+	
+	.msgBox li .lisp,.msgBox li .lirp{ width: inherit; float: inherit; text-align: left; padding:.4rem 1rem;}
+	.msgInput,.msgArea{ width: 90%;;}
+	
+	.checkLink ul li{ width: auto; float: none; display: inline-block; margin: .2rem;}
+	.checkLink ul li a{ display: block; padding: 0 15px;;}
+	.applyLt{ width: inherit; float: none;}
+	.applyRt{ width: inherit; float: none; margin-top: 2rem;}
+	.btmBoxLt,.btmBoxLt.Mid{ margin:1rem 0; width: inherit; float: none;}
+	.apMid,.apRt{ float: none; margin: 1rem 0; width: inherit;}
+
+	/*-------------zhuanti-----------*/
+	.mycontainer{ width: inherit;}
+	.ztcontent{ padding: 1rem;}
+	.ztlefttxt.fl{ float: none;}
+	.ztlefttxt{ width: inherit; padding: 0; text-align: center;}
+	.ztside-title{ width: inherit;}
+	.content{ min-height: 20rem; line-height: 1.4rem;}
+	.bbliucheng.fl,.lct-title,.lct{ float: none; width: inherit;}
+	ul.banliprocess li{ width:50%; margin: 0; height: auto;}
+	ul.banliprocess li a{ width: auto; height: 5rem; line-height: 5rem; margin: 1rem; display: block; float: none;}
+	.lct{ text-align: center;}
+	.ztrighttxt{ width: inherit; padding: 0; float: none;}
+	.ztfornote.fl{ width: inherit; float: none; margin: 1rem 0;}
+	.bbtabzlcontent,.zttxtcontent,.ztnote{ float: inherit; width: inherit; margin: 0;}
+	.bbliucheng.fr{ float: none; width: inherit;}
+	.bbliucheng ul li{ width: 50%; float: left; margin: 0;}
+	.bbliucheng ul li a{ width: auto; margin: 1rem; display: block;}	
+	.bbliucheng ul li,.bbliucheng ul li a{ line-height: 6rem; height: auto;}	
+	.bbtabzlcontent .bbtab{ height: auto; background: none;}
+	.bbtabzlcontent .bbtab a{background: #ccc;}	
+	.ztnote.fl{ margin: 1rem 0;}
+	.ztnote ul li,.ztnote ul li a{ font-size: 14px;}
+	
+	.lct img{ width: 100%; height: auto;}
+        .lctimg img{ width: 100%; height: auto;}
+ 	.sqtjcontent.fr{ width: inherit; float: none;}
+
+.sxcx img{width:100%}
+.LgCon dl dt{ position: inherit; left: auto; top: auto;float:none;}
+.LgCon dl{ position: inherit; padding-left: 0;}
+.LgCon dl.long{padding-left:0px;}
+
+	#myElement_logo{display:none;}
+	/*-------------zhuanti-----------*/
+
+
+
+#zhima_img{display:none;}
+.myList{}
+
+.myList li{ width: 80%; float: none; display: inline-block; padding: 1em 1.5em; border: 1px solid #f1f1f1;  font-size: 14px; border-radius:36px; margin-bottom:25px;}	
+
+.tmenu{ margin: 0 auto; padding:0; display:block; margin-top: 25px; overflow: hidden; padding: 10px 0;}
+.tmenu ul.bdlist li{ float:left; width:39%;  margin-right:5%;  background:none; border:#e5e5e5 solid 1px; box-shadow: 0 0 5px #f1f1f1; margin-left:5%; text-align:center; margin-bottom:30px;}
+
+.tmenu ul.bdlist li a{ display:block; height: 180px; color:#666666;}
+.tmenu ul.bdlist li span{ display:block; padding-top: 20px; font-size:16px; }
+.tmenu ul.bdlist li a:hover span{ color:#000000;}
+.tmenu ul.bdlist li i{ margin:30px auto 0; padding:0; text-align:center; display:block; width: 100px; height: 100px; line-height: 18px; text-align: center;font-size: 12px;  vertical-align: middle; }
+.tmenu ul.bdlist li i img{ text-align:center; margin:0 auto; padding:0; width:100px; height:100px;}
+.container .xx_con {
+    padding: 10px;
+}
+.container .xx_con p{
+    width: 100%;
+    padding:0; 
+}
+}
+
+@media screen and (min-width:300px) and (max-width:329px) {
+	
+}
+
+@media screen and (min-width:330px) and (max-width:479px) {
+	
+	
+}
+@media screen and (min-width:480px) and (max-width:639px) {
+	
+}
+@media screen and (min-width:640px) and (max-width:770px) {
+
+.tmenu{ margin: 0 auto; padding:0; display:block; margin-top: 25px; overflow: hidden; padding: 10px 0;}
+.tmenu ul.bdlist li{ float:left; width: 29%;  margin-right:10px;  background:none; border:#e5e5e5 solid 1px; box-shadow: 0 0 5px #f1f1f1; margin-left:10px; text-align:center; margin-bottom:30px;}
+
+.tmenu ul.bdlist li a{ display:block; height: 180px; color:#666666;}
+.tmenu ul.bdlist li span{ display:block; padding-top: 20px; font-size:16px; }
+.tmenu ul.bdlist li a:hover span{ color:#000000;}
+.tmenu ul.bdlist li i{ margin:30px auto 0; padding:0; text-align:center; display:block; width: 80px; height: 80px; line-height: 18px; text-align: center;font-size: 12px;  vertical-align: middle; }
+.tmenu ul.bdlist li i img{ text-align:center; margin:0 auto; padding:0; width:80px; height:80px;}
+	
+}
+@media screen and (min-width:770px) and (max-width:960px) {
+	.container .leftMenu{ float: none; width: inherit;}
+	.Lmenu li{ display: inline-block;}
+	.rightBox{ width: inherit; float: inherit; margin-top: 2rem;}
+	.newsList li{ padding: 10px 0 20px 0; overflow: hidden;}
+	.LawGuideList li .LGopera a{ padding-bottom: 1rem;}
+	.container{ padding: 1rem;}
+	
+	.msgBox li .lisp,.msgBox li .lirp{ width: inherit; float: inherit; text-align: left; padding:.4rem 1rem;}
+	.msgInput,.msgArea{ width: 90%;;}
+	
+	.checkLink ul li{ width: auto; float: none; display: inline-block; margin: .2rem;}
+	.checkLink ul li a{ display: block; padding: 0 15px;;}
+	.applyLt{ width: inherit; float: none;}
+	.applyRt{ width: inherit; float: none; margin-top: 2rem;}
+	.btmBoxLt,.btmBoxLt.Mid{ margin:1rem 0; width: inherit; float: none;}
+	.apMid,.apRt{ float: none; margin: 1rem 0; width: inherit;}
+	
+	/*-------------zhuanti-----------*/
+	.mycontainer{ width: inherit;}
+	.ztcontent{ padding: 1rem;}
+	.ztlefttxt.fl{ float: none;}
+	.ztlefttxt{ width: inherit; padding: 0; text-align: center;}
+	.ztside-title{ width: inherit;}
+	.content{ min-height: 14rem; line-height: 1.4rem;}
+	.bbliucheng.fl,.lct-title,.lct{ float: none; width: inherit;}
+	ul.banliprocess li{ width:25%; margin: 0; height: auto;}
+	ul.banliprocess li a{ width: auto; height: 5rem; line-height: 5rem; margin: 1rem; display: block; float: none;}
+	.lct{ text-align: center;}
+        .lctimg{ text-align: center; width: 100%; height:450px;}
+	.ztrighttxt{ width: inherit; padding: 0; float: none;}
+	.ztfornote.fl{ width: inherit; float: none; margin: 1rem 0;}
+	.bbtabzlcontent,.zttxtcontent,.ztnote{ float: inherit; width: inherit; margin: 0;}
+	.bbliucheng.fr{ float: none; width: inherit;}
+	.bbliucheng ul li{ width: 50%; float: left; margin: 0;}
+	.bbliucheng ul li a{ width: auto; margin: 1rem; display: block;}	
+	.bbliucheng ul li,.bbliucheng ul li a{ line-height: 6rem; height: auto;}	
+	.bbtabzlcontent .bbtab{ height: auto; background: none;}
+	.bbtabzlcontent .bbtab a{background: #ccc;}	
+	.ztnote.fl{ margin: 1rem 0;}
+	.ztnote ul li,.ztnote ul li a{ font-size: 14px;}
+	/*-------------zhuanti-----------*/	
+	#myElement_logo{display:none;}
+        
+        .myList{}
+
+        .myList li{ width: 80%; float: none; display: inline-block; padding: 1em 1.5em; border: 1px solid #f1f1f1;  font-size: 14px; border-radius:36px; margin-bottom:25px;}	
+
+.tmenu{ margin: 0 auto; padding:0; display:block; margin-top: 25px; overflow: hidden; padding: 10px 0;}
+.tmenu ul.bdlist li{ float:left; width: 30%;  margin-right:10px;  background:none; border:#e5e5e5 solid 1px; box-shadow: 0 0 5px #f1f1f1; margin-left:10px; text-align:center; margin-bottom:30px;}
+
+.tmenu ul.bdlist li a{ display:block; height: 180px; color:#666666;}
+.tmenu ul.bdlist li span{ display:block; padding-top: 20px; font-size:16px; }
+.tmenu ul.bdlist li a:hover span{ color:#000000;}
+.tmenu ul.bdlist li i{ margin:30px auto 0; padding:0; text-align:center; display:block; width: 90px; height: 90px; line-height: 18px; text-align: center;font-size: 12px;  vertical-align: middle; }
+.tmenu ul.bdlist li i img{ text-align:center; margin:0 auto; padding:0; width:90px; height:90px;}
+
+}
+
+@media screen and (min-width:1155px) and (max-width:1259px) {
+	
+	
+}
+
+@media screen and (min-width:1000px) and (max-width:1261px) {
+
+        .myList{}
+
+        .myList li{ width:auto; float: none; display: block; padding: 1em 1.5em; border: 1px solid #f1f1f1;  font-size: 14px; border-radius:36px; margin-left:2em; margin-right:2em; margin-bottom:25px;}
+	
+}
+
+@media screen and (min-width:960px) and (max-width:1261px) {
+.container .leftMenu{ float: left; width: 25%;}
+.Lmenu li{ float:none; display: inline-block;}
+.rightBox{ width: 73%; float:right; margin-top: 2rem;}
+        .tmenu{ margin: 0 auto; padding:0; display:block; margin-top: 25px; overflow: hidden; padding: 10px 0;}
+.tmenu ul.bdlist li{ float:left; width: 29%;  margin-right:1.5%;  background:none; border:#e5e5e5 solid 1px; box-shadow: 0 0 5px #f1f1f1; margin-left:2%; text-align:center; margin-bottom:30px;}
+
+.tmenu ul.bdlist li a{ display:block; height: 180px; color:#666666;}
+.tmenu ul.bdlist li span{ display:block; padding-top: 20px; font-size:16px; }
+.tmenu ul.bdlist li a:hover span{ color:#000000;}
+.tmenu ul.bdlist li i{ margin:30px auto 0; padding:0; text-align:center; display:block; width: 90px; height: 90px; line-height: 18px; text-align: center;font-size: 12px;  vertical-align: middle; }
+.tmenu ul.bdlist li i img{ text-align:center; margin:0 auto; padding:0; width:90px; height:90px;}
+	
+}
+
+@media screen and (min-width:1380px) and (max-width:1920px) {
+	.apRt {width: 435px;}
+	.btmBoxLt {width: 400px;}
+	.applyRt {width: 860px;}
+	.ztrighttxt {width: 890px;}
+	.ztnote {width: 289px;}
+	.ztfornote {width: 390px;}
+	.sqtjcontent,.bbtabzlcontent{width: 620px}
+	.rightBox {width: 1075px;}
+	ul.banliprocess li {width: 278px;}
+
+}
